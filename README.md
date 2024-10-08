@@ -4,7 +4,8 @@
 
 **ゲームの実行ファイル**<a href="https://drive.google.com/drive/folders/1BWobW7lHe5zukSwnq4zP3x3zkYJMw2Mh?usp=sharing" target="_blank">ここをクリック</a>
 
-※リンク先のReadmeにも記述しておりますが、apkファイルはAndroid用の実行ファイルで、zipファイルはwindows用の実行ファイルです。
+※リンク先のReadmeにも記述しておりますが、apkファイルはAndroid用の実行ファイルで、zipファイルはWindows用の実行ファイルです。
+　その他注意事項等も記述しておりますので、読んでから確認していただけると幸いです。
 
 ## ソースコードのダウンロード
 
@@ -27,3 +28,7 @@
 ---
 
 # ゲーム画面
+
+**YouTubeにゲームの紹介動画を上げております。**
+
+**プレイ動画** <a href="https://youtu.be/NVYqPbcqlyI?si=_IjyONkp6BLkc__X" target="_blank" rel="noopener noreferrer">ここをクリック</a>
