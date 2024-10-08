@@ -8,7 +8,7 @@
 
 ## ソースコードのダウンロード
 
-**ソースコード**<a href="https://drive.google.com/file/d/1IyjI3J_XsYyplk4I3tYwmS87jQHVRs6b/view?usp=sharing" target="_blank">ここをクリック</a>
+**ソースコード**<a href="https://drive.google.com/file/d/1IyjI3J_XsYyplk4I3tYwmS87jQHVRs6b/view?usp=sharing" target="_blank" rel="noopener noreferrer">ここをクリック</a>
 
 # 概要
 
